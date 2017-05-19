@@ -15,3 +15,13 @@ As part of this section we studied and analize the dynamic connectivity problem.
 Assigmnent: [Percolation](http://coursera.cs.princeton.edu/algs4/assignments/percolation.html)
 
 Write a program to estimate the value of the percolation threshold via Monte Carlo simulation. Used WeightedQuickUnion data structure to efficiently model system percolation.
+
+## Week 2
+
+### Deques and Randomized Queues
+
+On this section we consider two fundamental data types for storing collections of objects: the stack and the queue.
+
+Assigmnent: [Deques and Randomized Queues](http://coursera.cs.princeton.edu/algs4/assignments/queues.html)
+
+Write a generic data type for a deque and a randomized queue. The goal of this assignment is to implement elementary data structures using arrays and linked lists.
