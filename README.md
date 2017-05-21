@@ -25,3 +25,13 @@ On this section we consider two fundamental data types for storing collections o
 Assigmnent: [Deques and Randomized Queues](http://coursera.cs.princeton.edu/algs4/assignments/queues.html)
 
 Write a generic data type for a deque and a randomized queue. The goal of this assignment is to implement elementary data structures using arrays and linked lists.
+
+## Week 3
+
+### Pattern Recognition
+
+Mergesort and Quicksort algorithms.
+
+Assigmnent: [Pattern Recognition](http://coursera.cs.princeton.edu/algs4/assignments/collinear.html)
+
+Write a program to recognize line patterns in a given set of points.
