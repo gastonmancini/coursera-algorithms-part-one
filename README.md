@@ -43,3 +43,12 @@ Write a program to recognize line patterns in a given set of points.
 Assigmnent: [8 Puzzle](http://coursera.cs.princeton.edu/algs4/assignments/8puzzle.html)
 
 Write a program to solve the 8-puzzle problem (and its natural generalizations) using the A* search algorithm.
+
+## Week 5
+
+### Balanced Search Trees
+
+Assigmnent: [Kd-Trees](http://coursera.cs.princeton.edu/algs4/assignments/kdtree.html)
+
+Write a mutable data type PointSET.java that represents a set of points in the unit square. Implement the following API by using a red-black BST.
+Write a mutable data type KdTree.java that uses a 2d-tree to implement the same API (but replace PointSET with KdTree). A 2d-tree is a generalization of a BST to two-dimensional keys. The idea is to build a BST with points in the nodes, using the x- and y-coordinates of the points as keys in strictly alternating sequence.
